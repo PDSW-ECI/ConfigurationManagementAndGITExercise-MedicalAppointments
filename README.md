@@ -89,6 +89,15 @@ git push URL_REPOSITORIO master
 10. De nuevo, en dos computadores diferentes:
 
 	__Autor 1:__
+	* Agregar la siguiente dependencia al proyecto:
+		```
+	        <dependency>
+	        <groupId>cglib</groupId>
+	        <artifactId>cglib</artifactId>
+            	<version>3.2.5</version>
+	        </dependency>
+		```
+
 	* En la clase de pruebas ServiciosPacientesTest defina las clases de equivalencia para las pruebal del método de registro de consultas a pacientes.
 	* Implementar una prueba para el registro de consultas.
 	* Commit
