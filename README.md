@@ -89,7 +89,7 @@ git push URL_REPOSITORIO master
 10. De nuevo, en dos computadores diferentes:
 
 	__Autor 1:__
-	* En la clase de pruebas ConsultaTest defina las clases de equivalencia para las pruebal del método de registro de consultas a pacientes.
+	* En la clase de pruebas ServiciosPacientesTest defina las clases de equivalencia para las pruebal del método de registro de consultas a pacientes.
 	* Implementar una prueba para el registro de consultas.
 	* Commit
 	* Push a GitHub
@@ -97,7 +97,7 @@ git push URL_REPOSITORIO master
 	
 	__Autor 2:__
 
-	* En la clase de pruebas PacienteTest defina las clases de equivalencia para las pruebas del método de registro de pacientes.
+	* En la clase de pruebas ServiciosPacientesTest defina las clases de equivalencia para las pruebas del método de registro de pacientes.
 	* Implementar una prueba para el registro de nuevos pacientes.
 	* Commit
 	* Push a GitHub
